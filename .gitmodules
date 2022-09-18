@@ -8,8 +8,3 @@
 	url = https://github.com/pcastellanoescuder/fobitools
 	shallow = true
 	registered = true
-[submodule "POMA"]
-	path = POMA
-	url = https://github.com/pcastellanoescuder/poma
-	shallow = true
-	registered = true
