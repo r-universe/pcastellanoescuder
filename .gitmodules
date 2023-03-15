@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fobitools"]
-	path = fobitools
-	url = https://github.com/pcastellanoescuder/fobitools
-	shallow = true
-	registered = true
 [submodule "POMA"]
 	path = POMA
 	url = https://github.com/pcastellanoescuder/poma
+	shallow = true
+	registered = true
+[submodule "fobitools"]
+	path = fobitools
+	url = https://github.com/pcastellanoescuder/fobitools
 	shallow = true
 	registered = true
