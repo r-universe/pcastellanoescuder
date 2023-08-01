@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fobitools"]
-	path = fobitools
-	url = https://github.com/pcastellanoescuder/fobitools
 [submodule "POMA"]
 	path = POMA
 	url = https://github.com/pcastellanoescuder/poma
+[submodule "fobitools"]
+	path = fobitools
+	url = https://github.com/pcastellanoescuder/fobitools
